@@ -35,7 +35,7 @@ This project automates the flow of data so stakeholders always have the latest, 
   <img src="images/python_logo.png" alt="python logo" width="50"/>
   <img src="images/pandas_logo.png" alt="pandas logo" width="50"/>
   <img src="images/Apache_Spark_logo.svg.png" alt="Apache Spark" width="50"/>
-  <img src="images/powerbi_logo.png" alt="pandas logo" width="50"/>
+  <img src="images/Power_BI_Logo.png" alt="Power Bi Logo" width="50"/>
   <img src="images/USGS_logo.png" alt="USGS logo" width="50"/>
   
 </p> 
@@ -44,6 +44,11 @@ This project automates the flow of data so stakeholders always have the latest, 
 
 ## Architecture / Workflow  
 We use Microsoft Fabric’s ecosystem to design an end-to-end pipeline:
+
+<p align="center">
+  <img src="images/architecture_earthquake.png" alt="architecture" width="400"/>
+</p> 
+
 1.	Bronze Layer (Raw Ingestion)
     -	Stores raw earthquake data exactly as received from the API.
     -	Ensures auditability and source-of-truth preservation.
