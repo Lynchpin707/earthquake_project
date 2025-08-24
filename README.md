@@ -1,10 +1,15 @@
 # Earthquake Data Engineering with Microsoft Fabric  
 
 ## Project Overview  
+
 This project demonstrates how to build a data pipeline using Microsoft Fabric following the Medallion Architecture.
 The pipeline ingests earthquake data from an external API, processes it through structured layers (Bronze, Silver, Gold) and delivers interactive insights via Power BI.
 
 By the end of this project, raw data will be transformed into actionable insights—ready for analysis, reporting or decision-making.
+
+<p align="center">
+  <img src="images/Microsoft_Fabric_2023.svg" alt="Microsoft Fabric Logo" width="100"/>
+</p>
 
 > **Note:** This project was conducted following [Pathfinder Analytics’](https://www.youtube.com/@pathfinderanalytics) YouTube tutorial as a guided learning exercise.  
 
@@ -24,7 +29,16 @@ This project automates the flow of data so stakeholders always have the latest, 
   - Notebooks (PySpark, Python)  
   - Semantic Models & Power BI Reports  
 - **Python** (Requests, Pandas, PySpark)  
-- **USGS Earthquake API** (data source)  
+- **USGS Earthquake API** (data source)
+
+<p align="center">
+  <img src="images/python_logo.png" alt="python logo" width="50"/>
+  <img src="images/pandas_logo.png" alt="pandas logo" width="50"/>
+  <img src="images/Apache_Spark_logo.svg.png" alt="Apache Spark" width="50"/>
+  <img src="images/powerbi_logo.png" alt="pandas logo" width="50"/>
+  <img src="images/USGS_logo.png" alt="USGS logo" width="50"/>
+  
+</p> 
 
 ---
 
