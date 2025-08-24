@@ -46,7 +46,7 @@ This project automates the flow of data so stakeholders always have the latest, 
 We use Microsoft Fabric’s ecosystem to design an end-to-end pipeline:
 
 <p align="center">
-  <img src="images/architecture_earthquake.png" alt="architecture" width="400"/>
+  <img src="images/architecture.png" alt="architecture" width="700"/>
 </p> 
 
 1.	Bronze Layer (Raw Ingestion)
